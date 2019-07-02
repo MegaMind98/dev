@@ -1,11 +1,13 @@
 ---
-data-ribbon-left: Cosplay Contest&nbsp;GDQx&nbsp;
-data-ribbon-right: &nbsp;Expo Floor&nbsp;Esports Stage&nbsp;Loot Cave&nbsp;Cosplay Contest&nbsp;TwitchCon Party&nbsp;Streamer Zone&nbsp;Twitch Rivals
-link: https://twitchcon.com/blog/buy-and-sell-custom-community-art-in-artist-alley/
+data-ribbon-left: 
+data-ribbon-right: 
+link: 
 title: 
 data-panel: 
-image: https://cdn.m7g.twitch.tv/d450b59afc141f2630c7/assets/images/activities/artist-alley.png
+image: 
 body: 
+readmore: 
+register:
 layout: profile
 ---
 
