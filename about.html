@@ -29,12 +29,68 @@ permalink: /about/
       </div>
     <br />
         <div class="o-text-column u-mb5">
-          <p>NCIT EXPO ON TECHNOLOGY, “NEXT” will be the first ever nationwide fest on IT organized by Nepal College of Information and Technology. This event involves an active participation of students from more than 37 affiliated colleges of Pokhara University, +2 colleges within the valley and other engineering colleges.</p>
+          <p><strong>NCIT Expo on Technology, “NEXT”</strong> will be the first ever nationwide fest on IT going to be organized by Nepal College of Information and Technology. This event involves an active participation of students from more than 37 affiliated colleges of Pokhara University, +2 colleges within the valley and other engineering colleges.</p>
 
+          <p>NEXT will give a chance to start, culminate new ideas and showcase student’s technical expertise on different fields. The fest will be a three-day grandeur which involves a series of competitions, workshops, seminars, boot camps and guest lectures by some eminent personalities.</p> <p>NEXT is a fusion of creativity, imagination and innovation. It will be a perfect blend of entertainment technology and experience with the aim of rapid growth and development of the society. The technical events included in this event are as follows:</p>
       </div>
       </div>
     </div>
     <div class="t-dark">
+        <div class="o-bleed o-bg o-padded-section">
+          <div>
+            <div class="c-ribbon">
+              
+                
+        
+              {% assign events = site.event %}{% for event in events %} 
+                <div class="c-ribbon__box">
+                  <h3 class="c-ribbon__text" data-ribbon-left="{{ event.data-ribbon-left }}" data-ribbon-right="{{ event.data-ribbon-right}}">
+                      <button class="c-link c-link--anim c-link--as-button js-trigger-panel" data-panel="{{ event.data-panel }}">{{ event.title }}</button> 
+                    
+                  </h3>
+                  <div id="{{ event.data-panel }}" class="c-activity-panel js-panel">
+                    <div class="c-activity-panel__hero u-ratio" style="padding-bottom: calc((944/1442)*100%);">
+                      <div class="c-aspect-inner">
+                        <img src="{{ event.image }}" 
+        alt="{{ event.alt }}" 
+        class="u-responsive">
+                      </div>
+                    </div>
+                    <div class="c-activity-panel__inner">
+                      <p class="c-activity-panel__title">{{ event.title }}</p>
+                      <p class="c-activity-panel__body">{{ event.body }}</p>
+                    </div>
+                  </div>
+                </div>
+              
+                {% endfor %} 
+                
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br /><br />
+    <div class="t-light">
+        <div class="o-bleed o-bg">
+            <div class="o-text-column u-mb5">
+                <h2 class="u-type-h4">Objectives</h2>
+              <p>Students become active participants in the learning process not only through the consumption of content but through critical thinking and problem solving by creating own content. So this event aims to provide following objectives:</p>
+    
+              <ul>
+                  <li>To provide students a platform to demonstrate their talent and apply their skills which help them achieve their educational and professional goals.</li>
+                  <li>To connect skilled students with members of senior management of various institutions and organization and impress them with their determination and passion.</li>
+                  <li>To avail the students a new learning environment  to challenge themselves and develop new learning skills.</li>
+                  <li>To provide exposure and realistic outlook towards the competitive nature of real life.</li>
+                  <li>To offer a chance to meet new people and learn more about the diverse fields they belong to.</li>
+                  <li>To develop mutual understanding between the engineering institutions, domestic stakeholders and general public.</li>
+
+                </ul>
+          </div>
+          </div>
+        </div>       
+    <div class="t-black">
     <div class="o-bleed o-bg o-padded-section u-pb15">
         <div class="o-full js-card-area" data-theme="t-light" data-user-theme="t-dark">
            <div class="o-card-list">
