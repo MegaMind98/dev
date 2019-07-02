@@ -2411,7 +2411,7 @@ th {
   .t-dark .c-logo, [class*="t-"] .t-dark .c-logo, [class*="t-"] [class*="t-"] .t-dark .c-logo {
     filter: brightness(5); }
   .t-black .c-logo, [class*="t-"] .t-black .c-logo, [class*="t-"] [class*="t-"] .t-black .c-logo {
-    filter: brightness(5); }
+    filter: brightness(3); }
   .c-logo--mobile {
     height: 36px;
     width: auto; }
