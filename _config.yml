@@ -27,6 +27,9 @@ collections:
   event:
     permalink: /event/
     output: true
+  organizer:
+    permalink: /organizer/
+    output: true
 plugins:
   - jekyll-feed
 exclude:
