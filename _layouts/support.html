@@ -1,0 +1,36 @@
+---
+description: >
+  This layout can be used for any page requring access to the full width of the page, unconstrained by a grid.
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+    <link rel="shortcut icon" href="dist/images/favicon.ico">
+    <base href="{{ site.baseurl }}" />
+    <link href="{{ '/dist/css/style.css' | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{ '/dist/css/theme.css' | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{ '/dist/css/entypo.css' | prepend: site.baseurl }}" rel="stylesheet" type="text/css" media="all" />    
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext,vietnamese" rel="stylesheet">
+    <link href="{{ '/dist/css/socicon.css' | prepend: site.baseurl }}" rel="stylesheet" type="text/css" media="all" />
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137398404-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137398404-1');
+</script>
+
+  </head>
+ 
+  <body>
+      {{ content }}
+  </body>
+</html>
