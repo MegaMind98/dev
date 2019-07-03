@@ -5,8 +5,8 @@ data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Par
 link: 
 data-panel: "hackathon"
 image: https://images.unsplash.com/photo-1530541930197-ff16ac917b0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&q=462
-body: "It encourages the creativity of student and supports collaboration among them to come up with a product in a short period of time frame using tools and techniques they are familiar with."
-alt: "Hackathon"
+body: "Workcamps(Workshop + Bootcamp) are mainly targeted for students of our college and enthusiasts."
+alt: "Workcamp"
 readmore: 
 register: 
 layout: event
