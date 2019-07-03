@@ -1626,13 +1626,13 @@ th {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   grid-template-rows: 260px 260px 260px;
   grid-gap: 8px;
-  /* height: 531px;*/
+  /*height: 531px;*/
   overflow: hidden; }
   @media (max-width: 731px) {
     .o-card-list {
       -ms-grid-columns: 50% 50%;
       grid-template-columns: repeat(2, calc(50% - 8px));
-      height: 797px; } }
+      /*height: 797px;*/ } }
   .o-card-list--uncapped {
     grid-template-rows: unset;
     height: auto; }
