@@ -3,7 +3,6 @@ layout: base
 permalink: /programs/
 ---
 
-    
 <div class="t-light">
     <div class="o-bleed o-bg">
       <div class="o-full">
@@ -14,79 +13,95 @@ permalink: /programs/
       <div class="o-row u-no-wrap o-row--mobile-break-reverse ">
         
           <div class="o-under-half o-under-half--to-full o-under-half--overlay">
-              <p class="u-type-h4">Blend of Entertainment & Technology<br />July 18&ndash;20, 2019 @ NCIT</p>
-          </div>
+              <p class="u-type-h5">Entertainment + Technology<br />July 18&ndash;20, 2019 @ NCIT</p>
+            </div>
         
   
         <div class="o-over-half o-over-half--right">
           
           
             <div class="u-sixteen-nine">
-              <iframe class="c-aspect-inner" src="https://www.youtube.com/embed/3vPCpQTJkYo?rel=0?version=3&autoplay=1&controls=0&&showinfo=0&loop=1&&modestbranding=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+              <iframe class="c-aspect-inner" src="https://www.youtube.com/embed/3vPCpQTJkYo?rel=0?version=3&autoplay=1&controls=0&&showinfo=0&loop=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
             </div>
           
         </div>
       </div>
-    <br />
-        <div class="o-text-column u-mb5">
-                <h2 class="u-type-h4">Get Out Smarter!</h2>
+      <div class="o-text-column u-mb5 u-mt5">
+          <h2 class="u-type-h4">Get Out Smarter!</h2>
+          <p><strong>NEXT</strong> aims to give a chance to start, culminate new ideas and showcase students' technical expertise on different fields. The three-day grandeur will involve a series of competitions, workshops, seminars, boot camps and guest lectures by some eminent personalities.</p>
+          <p>The technical events included in this event are as follows:</p></div>
+</div>
+</div>
 
-          <p><strong>NEXT</strong> aims to give a chance to start, culminate new ideas and showcase students' technical expertise on different fields. The three-day grandeur will involve a series of competitions, workshops, seminars, boot camps and guest lectures by some eminent personalities.</p> <p>The technical events included in this event are as follows:</p>
-      </div>
-      </div>
-    </div>
-    <div class="t-dark">
-        <div class="o-bleed o-bg o-padded-section">
-          <div>
-            <div class="c-ribbon">
-              {% assign events = site.event %}{% for event in events %} 
-                <div class="c-ribbon__box">
-                  <h3 class="c-ribbon__text" data-ribbon-left="{{ event.data-ribbon-left }}" data-ribbon-right="{{ event.data-ribbon-right}}">
-                      <button class="c-link c-link--anim c-link--as-button js-trigger-panel" data-panel="{{ event.data-panel }}">{{ event.title }}</button> 
-                    
-                  </h3>
-                  <div id="{{ event.data-panel }}" class="c-activity-panel js-panel">
-                    <div class="c-activity-panel__hero u-ratio" style="padding-bottom: calc((944/1442)*100%);">
+<div class="t-dark">
+    <div class="o-bleed o-bg o-padded-section">
+       <div>
+          <div class="c-ribbon">
+             {% assign events = site.event %}{% for event in events %} 
+             <div class="c-ribbon__box">
+                <h3 class="c-ribbon__text" data-ribbon-left="{{ event.data-ribbon-left }}" data-ribbon-right="{{ event.data-ribbon-right}}">
+                   <button class="c-link c-link--anim c-link--as-button js-trigger-panel" data-panel="{{ event.data-panel }}">{{ event.title }}</button> 
+                </h3>
+                <div id="{{ event.data-panel }}" class="c-activity-panel js-panel">
+                   <div class="c-activity-panel__hero u-ratio" style="padding-bottom: calc((944/1442)*100%);">
                       <div class="c-aspect-inner">
-                        <img src="{{ event.image }}" 
-        alt="{{ event.alt }}" 
-        class="u-responsive">
+                         <img src="{{ event.image }}" 
+                            alt="{{ event.alt }}" 
+                            class="u-responsive">
                       </div>
-                    </div>
-                    <div class="c-activity-panel__inner">
-                      <p class="c-activity-panel__title"><a href="{{ event.readmore }}">{{ event.title }}</a></p>
-                      <p class="c-activity-panel__body">{{ event.body }}&nbsp;<a href="{{ event.readmore }}">Click here for event details</a>.</p>
-                                        </div>
+                   </div>
+                   <div class="c-activity-panel__inner">
+                      <p class="c-activity-panel__title">{{ event.title }}</p>
+                      <p class="c-activity-panel__body">{{ event.body }}&nbsp;<a href="{{ event.readmore }}">Read more...</a></p>
+                   </div>
                 </div>
-                {% endfor %} 
-            </div>
+             </div>
+             {% endfor %} 
           </div>
-        </div>
-      </div>
-    </div>   
-    <div class="t-black">
-    <div class="o-bleed o-bg o-padded-section u-pb15">
-        <div class="o-full js-card-area" data-theme="t-light" data-user-theme="t-dark">
-           <div class="o-card-list">
-              <div class="o-card-list__item o-card-list__item--lead-in">
-                 <div class="c-card c-card--lead-in">
-                    <div class="c-card__inner">
-                       <h4 class="c-card__heading">Makers...<br />Organizers of NEXT 2019</h4>
-                    </div>
-                 </div>
-              </div>
-              
-              {% assign organizers = site.organizer | sort: 'id' %}{% for organizer in organizers %} 
-              <div class="o-card-list__item t-light" style="">
-                 <div class="c-card">
-                    <div class="c-card__inner">
-                       <div class="c-card__image" style="background-image: url(&quot;{{ organizer.photo }}&quot;);"></div>
-                       <h4 class="c-card__heading">{{ organizer.firstname }}&nbsp;{{ organizer.lastname }}</h4>
-                       <p class="c-card__subline">{{ organizer.designation }}</p>
-                    </div>
-                 </div>
-              </div>
-              {% endfor %} 
-           </div>
-        </div>
-     </div>
+       </div>
+    </div>
+ </div>
+ 
+ <br /><br />
+ <div class="t-light">
+    <div class="o-bleed o-bg">
+       <div class="o-text-column u-mb5">
+          <h2 class="u-type-h4">Objectives</h2>
+          <p>Students become active participants in the learning process not only through the consumption of content but through critical thinking and problem solving by creating own content. So this event aims to provide following objectives:</p>
+          <ul>
+             <li>To provide students a platform to demonstrate their talent and apply their skills which help them achieve their educational and professional goals.</li>
+             <li>To connect skilled students with members of senior management of various institutions and organization and impress them with their determination and passion.</li>
+             <li>To avail the students a new learning environment  to challenge themselves and develop new learning skills.</li>
+             <li>To provide exposure and realistic outlook towards the competitive nature of real life.</li>
+             <li>To offer a chance to meet new people and learn more about the diverse fields they belong to.</li>
+             <li>To develop mutual understanding between the engineering institutions, domestic stakeholders and general public.</li>
+          </ul>
+       </div>
+    </div>
+ </div>
+ <div class="t-black">
+ <div class="o-bleed o-bg o-padded-section u-pb15">
+    <div class="o-full js-card-area" data-theme="t-light" data-user-theme="t-dark">
+       <div class="o-card-list">
+          <div class="o-card-list__item o-card-list__item--lead-in">
+             <div class="c-card c-card--lead-in">
+                <div class="c-card__inner">
+                   <h4 class="c-card__heading">Makers...<br />Organizers of NEXT 2019</h4>
+                </div>
+             </div>
+          </div>
+          {% assign organizers = site.organizer | sort: 'id' %}{% for organizer in organizers %} 
+          <div class="o-card-list__item t-light" style="">
+             <div class="c-card">
+                <div class="c-card__inner">
+                   <div class="c-card__image" style="background-image: url(&quot;{{ organizer.photo }}&quot;);"></div>
+                   <h4 class="c-card__heading">{{ organizer.firstname }}&nbsp;{{ organizer.lastname }}</h4>
+                   <p class="c-card__subline">{{ organizer.designation }}</p>
+                </div>
+             </div>
+          </div>
+          {% endfor %} 
+       </div>
+    </div>
+ </div>
+ </div>
