@@ -176,7 +176,7 @@ th {
   font-size: 60px; }
   @media (min-width: 320px) {
     .u-type-hero {
-      font-size: calc(50px + 120 * (100vw - 320px) / 1046); } }
+      font-size: calc(50px + 100 * (100vw - 320px) / 1046); } }
   @media (min-width: 1366px) {
     .u-type-hero {
       font-size: 140px; } }

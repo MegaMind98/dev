@@ -1,5 +1,5 @@
 ---
-id: 4
+memberid: 4
 firstname: Mohan	 
 lastname: Dhakal
 designation: Competition Manager
