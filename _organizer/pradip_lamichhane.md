@@ -1,16 +1,16 @@
 ---
-id: 10
-firstname: Nischal Lal 
-lastname: Shrestha
-designation: Publication Manager
-photo: https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-9/61748487_1275909112574638_7225021674985357312_n.jpg?_nc_cat=109&_nc_eui2=AeE_yKErF6xoF9dzuX-_GO-_cxFYPDUD6NRuI7hm-XjkcWyCkLChUhLajUBGUibM799Qktw0AqZ5JIv3_0_iSlF9-RdzUu06ssX4G7A_2nm4kg&_nc_oc=AQnwc122MoCqeutqeyCBFH6tlw0kWuktG5fp3rmCuYzp5AXx6JB5jdG8WTmQe7GlvxI&_nc_ht=scontent.fktm8-1.fna&oh=27b5ffb7f23eb0f3cd8e75456ea023bd&oe=5DC6D4BF
-place: Nuwakot
-email: namaste@nischal.info.np
+id: 11
+firstname: Pradip 
+lastname: Lamichhane
+designation: Human Resource Manager
+photo: https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-1/p80x80/61805421_1552510598216434_7225887785205366784_n.jpg?_nc_cat=108&_nc_oc=AQkXtPUZZUZh-QwoHqc40P4Mj87BBjZ6Vh2VU5XjQTLTs-0J0BTItbwkmTe1fDXr-kk&_nc_ht=scontent.fktm8-1.fna&oh=74d6be363c2084f1c98a33081a0b9836&oe=5D80A16A
+place: Pokhara
+email: atul@atul.com.np
 phonenumber: +977 9800000000
-website: https://nischal.info.np
-facebook: https://www.facebook.com/theonlyNischal
-twitter: https://twitter.com/theOnlyNischal
-linkedin: https://www.linkedin.com/in/theonlyNischal/
+website: atul.com.np
+facebook: https://www.facebook.com/zunioRR
+twitter: 
+linkedin: 
 layout: profile
 ---
 
