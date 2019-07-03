@@ -5,8 +5,8 @@ data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Par
 link: 
 data-panel: "hackathon"
 image: https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=705&h=462
-body: "It encourages the creativity of student and supports collaboration among them to come up with a product in a short period of time frame using tools and techniques they are familiar with."
-alt: "Hackathon"
+body: "It is a league game competition, where two teams with 3 manually controlled Robots of each team will be competing against each other to score the highest score."
+alt: "Robo Soccer"
 readmore: 
 register:
 layout: event
