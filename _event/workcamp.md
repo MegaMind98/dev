@@ -1,7 +1,7 @@
 ---
 title: "Workcamp"
-data-ribbon-left: "Cosplay Contest&nbsp;GDQx&nbsp;"
-data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Party&nbsp;Coding Zone&nbsp;Rivals;"
+data-ribbon-left: "ts"
+data-ribbon-right: "Workcamps(Workshop + Bootcamp)"
 link: 
 data-panel: "hackathon"
 image: https://images.unsplash.com/photo-1530541930197-ff16ac917b0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&q=462

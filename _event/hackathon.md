@@ -1,13 +1,13 @@
 ---
 title: "Hackathon"
-data-ribbon-left: "Cosplay Contest&nbsp;GDQx&nbsp;"
-data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Party&nbsp;Coding Zone&nbsp;Rivals;"
+data-ribbon-left: "t "
+data-ribbon-right: "NEXT Hackathon is a competitive platform aiming to "
 link: 
 data-panel: "hackathon"
 image: https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=705&h=462
 body: "NEXT Hackathon is a competitive platform aiming to generate innovative solutions to real-world problems in a risk-taking environment. "
 alt: "Hackathon"
-readmore: 
+readmore: /hackathon-at-next/
 register: 
 layout: event
 ---

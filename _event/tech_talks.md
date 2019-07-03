@@ -1,7 +1,7 @@
 ---
 title: "Tech&nbsp;Talks"
-data-ribbon-left: "Cosplay Contest&nbsp;GDQx&nbsp;"
-data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Party&nbsp;Coding Zone&nbsp;Rivals;"
+data-ribbon-left: "Tech talks is "
+data-ribbon-right: "Tech talks is important "
 link: 
 data-panel: "hackathon"
 image: https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=705&h=462

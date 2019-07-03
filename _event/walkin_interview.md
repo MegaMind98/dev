@@ -1,6 +1,6 @@
 ---
 title: "Walk-In Interview"
-data-ribbon-left: "Real Life Scenario&nbsp;Try&nbsp;"
+data-ribbon-left: "me."
 data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Party&nbsp;Coding Zone&nbsp;Rivals;"
 link: 
 data-panel: "walkin-interview"
