@@ -1,11 +1,11 @@
 ---
 title: "Tech&nbsp;Talks"
-data-ribbon-left: "Tech talks is "
-data-ribbon-right: "Tech talks is important "
+data-ribbon-left: "Talks&npsp;Inspiration"
+data-ribbon-right: "Talks&nbsp;Inspiration&nbsp;Experience&npsp;Stories&npsp;Learning "
 link: 
 data-panel: "hackathon"
 image: https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=705&h=462
-body: "Tech talks is important part of the event that host platform for technology based topics. We welcomes all distinguished academics and professionals from IT industry to share their creative and innovative technologies."
+body: "Tech talks are important part of the event that host platform for technology based topics. We welcomes all distinguished academics and professionals from IT industry to share their creative and innovative technologies."
 alt: "Hackathon"
 readmore: 
 register:

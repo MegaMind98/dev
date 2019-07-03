@@ -1,5 +1,5 @@
 ---
-id: 10
+memberid: 10
 firstname: Nischal Lal 
 lastname: Shrestha
 designation: Publication Manager

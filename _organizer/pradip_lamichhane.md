@@ -1,5 +1,5 @@
 ---
-id: 11
+memberid: 11
 firstname: Pradip 
 lastname: Lamichhane
 designation: Human Resource Manager

@@ -1,5 +1,5 @@
 ---
-id: 8
+memberid: 8
 firstname:  Sabuj Rana	 
 lastname: Magar
 designation: Record Manager
