@@ -9,4 +9,22 @@ link: "/announcement/workcamp-on-raspberry-pi/"
 layout: announcement
 ---
 
-fajdkljal;kjfdskl jfksjafkjs dajfsdljf sdakjf; sajfkjsad;d fj
+To all the concerned students of 4th and 3rd year BE CE/IT/SE/CIVIL/ELX that the work
+camp for Raspberry pi is going to start from this coming Monday (23rd of Ashad, 2076).
+
+All the interested students are requested to register their names in our Google form
+available in NEXT official website.
+
+<dl>
+  <dt>Program:</dt>
+  <dd>Workcamp on Raspberry Pi</dd>
+  <dt>Duration:</dt>
+  <dd>Starting Monday</dd>
+  <dt>Requirement:</dt>
+  <dd>Laptop</dd>
+</dl>
+
+<br />
+### Contact Point
+Mr. Aashish Nepal <br />
++977 9818226257
