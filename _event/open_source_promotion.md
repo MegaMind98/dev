@@ -1,6 +1,6 @@
 ---
 title: "Open Source Promotion"
-data-ribbon-left: "Cosplay Contest&nbsp;GDQx&nbsp;"
+data-ribbon-left: ""
 data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Party&nbsp;Coding Zone&nbsp;Rivals;"
 link: 
 data-panel: "hackathon"

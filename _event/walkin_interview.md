@@ -1,7 +1,7 @@
 ---
 title: "Walk-In Interview"
-data-ribbon-left: "me."
-data-ribbon-right: "&nbsp;Expo Floor&nbsp;Challenge&nbsp;Coding Contest&nbsp;Party&nbsp;Coding Zone&nbsp;Rivals;"
+data-ribbon-left: "m"
+data-ribbon-right: ""
 link: 
 data-panel: "walkin-interview"
 image: https://images.unsplash.com/photo-1544014840-e9e5c4078b17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&h=462

@@ -1,6 +1,6 @@
 ---
 memberid: 11
-firstname: Pradip 
+firstname: Pramod 
 lastname: Lamichhane
 designation: Human Resource Manager
 photo: https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-1/p80x80/61805421_1552510598216434_7225887785205366784_n.jpg?_nc_cat=108&_nc_oc=AQkXtPUZZUZh-QwoHqc40P4Mj87BBjZ6Vh2VU5XjQTLTs-0J0BTItbwkmTe1fDXr-kk&_nc_ht=scontent.fktm8-1.fna&oh=74d6be363c2084f1c98a33081a0b9836&oe=5D80A16A
