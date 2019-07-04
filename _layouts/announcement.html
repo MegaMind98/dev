@@ -1,0 +1,21 @@
+---
+layout: base
+description: >
+  For the use of individual annnouncement.
+---
+
+<div class="t-light">
+        <div class="o-bleed o-bg">
+          <div class="o-super-wide">
+            <div class="t-dark c-panel-image c-panel-image--to-full u-pt8 u-pb2 u-mt2" style="background-image: url({{ page.image }});">
+        <p class="u-type-h5 u-mb0 u-pt4">{{ page.date | date: "%B %-d, %Y" }}</p>
+        <h1 class="u-type-h2 u-mt0">{{ page.title }}</h1>
+        
+      </div>
+            <p class="u-w100 u-text-right "><a href="{{ '/news-and-announcements/' | prepend: site.baseurl }}">Back to News</a>
+          <div class="o-text-column u-mb5">
+{{ content }}
+        </div>
+        </div>
+    </div>
+

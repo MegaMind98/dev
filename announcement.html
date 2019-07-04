@@ -1,0 +1,42 @@
+---
+layout: base
+permalink: /news-and-announcements/
+---
+
+    <div class="t-light">
+        <div class="o-bleed o-bg">
+          <div class="o-full">
+            <h1 class="u-type-h2">News
+            </h1>
+            
+            <p class="u-type-panel-text">News from college and around the world.</p>
+          </div>
+        </div>
+
+    
+  
+
+    <div class="o-bleed u-py2">
+        <div class="o-full">
+
+                {% assign announcements = site.announcement %}{% for announcement in announcements %}
+                <div class="o-columns__column u-mr2">
+
+                                <img class="u-responsive" src="{{ announcement.image }}" alt="{{ announcement.alt }}">
+                              
+                                <p class="u-type-h6 u-mb0">{{ announcement.date | date: "%B %-d" }}</p>
+                                <p class="u-type-panel-text u-m0">{{ announcement.title }}</p>
+                                <p class="u-type-panel-text u-m0">
+                                  <a href="{{ announcement.link }}" class="c-link c-link--outbound u-m0">Read now</a>
+                                </p>
+                              </div>
+                              {% endfor %} 
+
+
+                                          </div>
+
+                </div>
+      
+    </div>
+  </div>
+</div>
