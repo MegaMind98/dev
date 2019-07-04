@@ -4,7 +4,7 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "logic-battle"
-image: https://images.unsplash.com/photo-1562255034-0b41e6d51628?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&h=462&q=60
+image: /assets/images/Logic_battle.PNG
 body: "Logic Battle is targeted but not limited to participants having a good knowledge of Data Structures and Algorithm. The main aim of Logic Battle is to provide platform for students to show their logical and programming command. "
 alt: "Logic Battle"
 readmore: /logic-battle-at-next/

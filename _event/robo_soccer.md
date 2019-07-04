@@ -4,7 +4,7 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "robo-soccer"
-image: https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=705&h=462
+image: https://images.unsplash.com/photo-1507162728832-5b8fdb5f99fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&h=462
 body: "It is a league game competition, where two teams with 3 manually controlled Robots of each team will be competing against each other to score the highest score."
 alt: "Robo Soccer"
 readmore: 
