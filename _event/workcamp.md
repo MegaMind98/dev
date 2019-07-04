@@ -3,7 +3,7 @@ title: "Workcamp"
 data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
-data-panel: "hackathon"
+data-panel: "workcamp"
 image: https://images.unsplash.com/photo-1530541930197-ff16ac917b0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&q=462
 body: "Workcamps(Workshop + Bootcamp) are mainly targeted for students of our college and enthusiasts."
 alt: "Workcamp"

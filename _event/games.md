@@ -1,5 +1,5 @@
 ---
-title: "PUBG Mobile"
+title: "Games"
 data-ribbon-left: ""
 data-ribbon-right: ""
 link: 

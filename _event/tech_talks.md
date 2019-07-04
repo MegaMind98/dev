@@ -3,10 +3,10 @@ title: "Tech&nbsp;Talks"
 data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
-data-panel: "hackathon"
+data-panel: "tech-talks"
 image: https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=705&h=462
 body: "Tech talks are important part of the event that host platform for technology based topics. We welcomes all distinguished academics and professionals from IT industry to share their creative and innovative technologies."
-alt: "Hackathon"
+alt: "Tech Talks"
 readmore: 
 register:
 layout: event
