@@ -39,6 +39,7 @@ layout: base
             
            
           {% assign events = site.event %}{% for event in events %} 
+    
             <div class="c-ribbon__box">
               <h3 class="c-ribbon__text" data-ribbon-left="{{ event.data-ribbon-left }}" data-ribbon-right="{{ event.data-ribbon-right}}">
                   <button class="c-link c-link--anim c-link--as-button js-trigger-panel" data-panel="{{ event.data-panel }}">{{ event.title }}</button> 
@@ -58,7 +59,7 @@ layout: base
                 </div>
               </div>
             </div>
-          
+       
             {% endfor %} 
             
           
