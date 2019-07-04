@@ -1,0 +1,49 @@
+---
+layout: base
+permalink: /faq/
+---
+
+
+<div class="o-bleed u-df u-my2">
+
+  <div class="js-sticky-sidebar c-sidebar t-dark">
+    <div class="c-sidebar__inner o-bg">
+      
+        
+
+        
+        <h2 class="u-type-h6 c-sidebar__heading cms-editor-link">FAQ</h2>
+
+        <ul class="c-sidebar__links">
+
+                {% assign faqs = site.faq | sort: "faqid" %}{% for faq in faqs %} 
+          
+
+          <li class="u-type-tinier c-sidebar__link"><a class="c-link" href="#{{ faq.href }}">{{ faq.title }}</a></li>
+
+          {% endfor %} 
+         
+
+        </ul>
+
+        
+      
+        
+      
+    </div>
+  </div>
+
+  <div class="o-text-column o-text-column--beside-column@mobile-menu-up u-pr1">
+    
+        {% assign faqs = site.faq | sort: "faqid" %}{% for faq in faqs %} 
+        <h2 class="u-type-h5" id="{{ faq.href }}">{{ faq.title }}</h2>
+        <div class="u-type-body"><p>{{ faq.content }}</p>
+            
+</div>
+
+{% endfor %} 
+      
+    
+  </div>
+
+</div>

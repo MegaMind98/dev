@@ -33,6 +33,8 @@ collections:
   announcement:
     permalink: /announcement/:name/
     output: true    
+  faq:
+    output: true      
 plugins:
   - jekyll-feed
 exclude:
