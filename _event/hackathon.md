@@ -4,7 +4,7 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "hackathon"
-image: https://scontent.fktm7-1.fna.fbcdn.net/v/t1.0-9/65892431_449341869193324_6497954707581960192_o.png?_nc_cat=101&_nc_oc=AQkBlHxaxyJA86f5VBx-U83b3_UOQmbt0EUsXHfCd1LrjvwimDtu-AGLbLKIsLNCA80&_nc_ht=scontent.fktm7-1.fna&oh=377c061c7f2dd306a1414d2ed79fcb01&oe=5DC4E36D
+image: /assets/images/hackathon.PNG
 body: "NEXT Hackathon is a competitive platform aiming to generate innovative solutions to real-world problems in a risk-taking environment. "
 alt: "Hackathon"
 readmore: /hackathon-at-next/

@@ -4,10 +4,10 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "seminar"
-image: https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-1.2.1&auto=format&fit=crop&w=705&h=462
+image: https://images.unsplash.com/photo-1544531585-9847b68c8c86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60
 body: "It encourages the creativity of student and supports collaboration among them to come up with a product in a short period of time frame using tools and techniques they are familiar with."
 alt: "Seminar"
-readmore: 
+readmore: /session/
 register:
 layout: event
 ---

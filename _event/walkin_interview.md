@@ -7,7 +7,7 @@ data-panel: "walkin-interview"
 image: https://images.unsplash.com/photo-1544014840-e9e5c4078b17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&h=462
 body: "It encourages the creativity of student and supports collaboration among them to come up with a product in a short period of time."
 alt: "Hackathon"
-readmore: "/call-for-article/"
+readmore: "/session/"
 register: "/call-for-article/registration/"
 layout: event
 ---
