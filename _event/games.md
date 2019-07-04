@@ -7,7 +7,7 @@ data-panel: "hackathon"
 image: https://scontent.fktm7-1.fna.fbcdn.net/v/t1.0-9/66031174_448400335954144_2877197131301519360_n.jpg?_nc_cat=109&_nc_oc=AQnbH-J3mNUVpDawi6OcMQm26DNX7WbiZYUMa33Jf9Rz9doqd-miPICl_SwxY54qq3k&_nc_ht=scontent.fktm7-1.fna&oh=f71fccdefb5d7a6ca218e777a812bfb7&oe=5D784AB3
 body: ""
 alt: "PUBG Mobile"
-readmore: /pubg-mobile-at-next/
+readmore: /games/
 register:
 layout: event
 ---
