@@ -4,8 +4,8 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "hackathon"
-image: https://scontent.fktm7-1.fna.fbcdn.net/v/t1.0-9/66031174_448400335954144_2877197131301519360_n.jpg?_nc_cat=109&_nc_oc=AQnbH-J3mNUVpDawi6OcMQm26DNX7WbiZYUMa33Jf9Rz9doqd-miPICl_SwxY54qq3k&_nc_ht=scontent.fktm7-1.fna&oh=f71fccdefb5d7a6ca218e777a812bfb7&oe=5D784AB3
-body: ""
+image: https://images.unsplash.com/photo-1529154691717-3306083d869e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&h=600
+body: "Gaming the heart of attraction in every technical event and there is no doubt that NEXT will not live up to its expectation."
 alt: "PUBG Mobile"
 readmore: /games/
 register:

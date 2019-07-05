@@ -4,7 +4,7 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "rapid-code-tournament"
-image: /assets/images/Rapid_Coding_Tournament.PNG
+image: https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&h=600
 body: "
 Rapid Coding Tournament in NEXT is targeted towards students and code enthusiasts with an elementary understanding of programming. "
 alt: "Rapid Coding Tournament"

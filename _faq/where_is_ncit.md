@@ -5,6 +5,6 @@ href: "where-is-ncit"
 layout: base
 ---
 
-<img src="{{ '/assets/images/ncit.png' | prepend: site.baseurl }}"
+<a href="https://goo.gl/maps/Mcp9fDzA4u9BTQNa6" target="_blank"><img src="{{ '/assets/images/ncit.png' | prepend: site.baseurl }}"
      alt="Balkumari"
-     class="u-responsive" />
+     class="u-responsive" /></a>
