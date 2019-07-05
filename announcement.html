@@ -12,16 +12,17 @@ permalink: /news-and-announcements/
             <p class="u-type-panel-text">News from college and around the world.</p>
           </div>
         </div>
+      </div>
 
     
   
-
-    <div class="o-bleed u-py2">
+      <div class="t-light">
         <div class="o-full">
 
                 {% assign announcements = site.announcement %}{% for announcement in announcements %}
-                <div class="o-columns__column u-mr2">
+<div class="o-columns__column u-mr2 u-mb3">
 
+      
                                 <img class="u-responsive" src="{{ announcement.image }}" alt="{{ announcement.alt }}">
                               
                                 <p class="u-type-h6 u-mb0">{{ announcement.date | date: "%B %-d" }}</p>
