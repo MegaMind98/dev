@@ -4,7 +4,7 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "hackathon"
-image: /assets/images/hackathon.PNG
+image: /assets/images/hackathon.png
 body: "NEXT Hackathon is a competitive platform aiming to generate innovative solutions to real-world problems in a risk-taking environment. "
 alt: "Hackathon"
 readmore: /hackathon-at-next/
