@@ -4,7 +4,7 @@ data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
 data-panel: "project-exhibition"
-image: /assets/images/project_showcase.PNG
+image: https://images.unsplash.com/photo-1530263131525-1c1d26feaa60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&h=600
 body: "It includes hardware, software, civil and electronics related projects demonstration where all the participants would be judged on the basis of their idea, presentation skill and group work."
 alt: "Project Exhibition"
 readmore: /project-exhibition-at-next/
