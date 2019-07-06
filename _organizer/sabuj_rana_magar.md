@@ -1,7 +1,7 @@
 ---
 memberid: 8
-firstname:  Sabuj Rana	 
-lastname: Magar
+firstname:  Sabuz 	 
+lastname: Rana
 designation: Record Manager
 photo: https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-1/p80x80/29025341_632599100405490_8440461654547854799_n.jpg?_nc_cat=105&_nc_oc=AQmR52LhyjmLMXNJ9G_5-QYIUc4OsUxqncHOw-WedlrB7070dkhHLwmAY3kwuuDmEpo&_nc_ht=scontent.fktm8-1.fna&oh=087af2022672600efe4aa01000d51f04&oe=5D82FC84
 place: Pokhara
