@@ -104,8 +104,21 @@ layout: base
       </div>
   </div>
 </div>      
+<div class="t-light">
+  <div class="o-bleed o-bg u-pb8 u-pt8">
+      <div class="o-full">
+              <p class="u-type-panel-text">
+                <a class="c-link c-link--inline u-text-no-wrap" href="/faq">News/Announcements</a>
+              </p>
+              {% assign announcements = site.announcement %}{% for announcement in announcements %}
+              <a target="_blank" rel="noreferrer noopener" class="c-link c-link--outbound u-type-h3 u-pl0" href="{{ announcement.link }}">{{ announcement.title }}</a><br /><br />
+              {% endfor %} 
+            </div>
+    </div>
+  </div>
+</div>
 <div class="t-black">
-    <div class="o-bleed o-bg c-step u-mt0">
+    <div class="o-bleed o-bg c-step">
       <div class="o-full">
         <h2 class="u-type-hero u-pt10 editable">
           What is NEXT?
