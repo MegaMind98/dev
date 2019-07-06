@@ -2487,7 +2487,7 @@ th {
     .t-light .c-inner-nav__button::before, .t-light .c-inner-nav__button::after, [class*="t-"] .t-light .c-inner-nav__button::before, .t-light .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-light .c-inner-nav__button::before, .t-light .c-inner-nav__button::after {
       border-bottom: solid 4px #FFFFFF; }
     .t-dark .c-inner-nav__button::before, .t-dark .c-inner-nav__button::after, [class*="t-"] .t-dark .c-inner-nav__button::before, .t-dark .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-dark .c-inner-nav__button::before, .t-dark .c-inner-nav__button::after {
-      border-bottom: solid 4px rgb(0, 0, 0); }
+      border-bottom: solid 4px rgb(32, 71, 107); }
     .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after, [class*="t-"] .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after {
       border-bottom: solid 4px #000000; }
   .c-inner-nav__button::after {
@@ -2498,7 +2498,7 @@ th {
       border-top: solid 4px #FFFFFF; }
     .t-dark .c-inner-nav__button::after, [class*="t-"] .t-dark .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-dark .c-inner-nav__button::after {
       border-bottom: unset;
-      border-top: solid 4px rgb(0, 0, 0); }
+      border-top: solid 4px rgb(32, 71, 107); }
     .t-black .c-inner-nav__button::after, [class*="t-"] .t-black .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-black .c-inner-nav__button::after {
       border-bottom: unset;
       border-top: solid 4px #000000; }
