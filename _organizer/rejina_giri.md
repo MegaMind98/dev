@@ -3,7 +3,7 @@ memberid: 12
 firstname: Rejina 
 lastname: Giri
 designation: Correspondence
-photo: https://scontent.fktm8-1.fna.fbcdn.net/v/t1.0-9/45176888_2018801138417826_4665783467982716928_n.jpg?_nc_cat=108&_nc_oc=AQmpPuZqdLHM1kfHgidLlXJ5wT8oHoixKQz2S9OgWZDKCAjb_MuqmNzTzmKYYL5mUmM&_nc_ht=scontent.fktm8-1.fna&oh=398045e9785d772f4b30307e912596db&oe=5D7ED41B
+photo: /assets/images/organizers/rejina_giri.jpeg
 place: Pokhara
 email: atul@atul.com.np
 phonenumber: +977 9800000000
