@@ -37,6 +37,7 @@ collections:
     output: true      
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock

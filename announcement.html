@@ -20,7 +20,7 @@ permalink: /news-and-announcements/
         <div class="o-full">
            <div class="o-row u-flex-wrap">
 
-                {% assign announcements = site.announcement | sort: 'date') | reverse %}{% for announcement in announcements %}
+                {% assign announcements = site.announcement | sort: 'date' | reverse %}{% for announcement in announcements %}
                 <div class="u-flex-1">
                     <div class="c-blog-card  u-m2">
                                 <img class="u-responsive" src="{{ announcement.image }}" alt="{{ announcement.alt }}">
