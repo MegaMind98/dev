@@ -1,13 +1,13 @@
 ---
-title: "Robo Soccer"
+title: "Robo Football"
 data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
-data-panel: "robo-soccer"
-image: https://images.unsplash.com/photo-1507162728832-5b8fdb5f99fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&h=462
+data-panel: "robo-football"
+image: '/assets/images/events/robo_football.jpg'
 body: "It is a league game competition, where two teams with 3 manually controlled Robots of each team will be competing against each other to score the highest score."
-alt: "Robo Soccer"
-readmore: /robo-soccer-at-next/
+alt: "Robo Football"
+readmore: /robo-Football-at-next/
 register:
 layout: event
 ---
