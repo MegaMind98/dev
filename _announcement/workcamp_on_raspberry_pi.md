@@ -13,8 +13,13 @@ To all the concerned students of 4th and 3rd year BE CE/IT/SE/CIVIL/ELX that the
 camp for Raspberry pi is going to start from this coming Monday (23rd of Ashad, 2076).
 
 All the interested students are requested to register their names in our Google form
-available in NEXT official website.
+available below.
 
+[Click here](https://forms.gle/pvU6AtgaFyYqXmCdA) or copy the link below and paste it in your browser for registration.
+
+https://forms.gle/pvU6AtgaFyYqXmCdA
+<br /><br />
+## Event Information
 <dl>
   <dt>Program:</dt>
   <dd>Workcamp on Raspberry Pi</dd>
@@ -24,7 +29,9 @@ available in NEXT official website.
   <dd>Laptop</dd>
 </dl>
 
-<br />
+After completion of the event the participant are required to 
+submit a project otherwise they must pay full payment for the course.
+
 ### Contact Point
 Mr. Aashish Nepal <br />
 +977 9818226257
