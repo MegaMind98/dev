@@ -15,10 +15,11 @@ camp for Raspberry pi is going to start from this coming Monday (23rd of Ashad, 
 All the interested students are requested to register their names in our Google form
 available below.
 
-[Click here](https://forms.gle/pvU6AtgaFyYqXmCdA) or copy the link below and paste it in your browser for registration.
-
-https://forms.gle/pvU6AtgaFyYqXmCdA
-<br /><br />
+<div class="c-ribbon">
+                      <h4 class="c-ribbon__text" ><a class="c-link c-link--anim c-link--outbound" target="_blank" rel="noreferrer noopener" href="https://forms.gle/pvU6AtgaFyYqXmCdA">Register here</a>
+                      </h4>
+</div>
+<br />
 ## Event Information
 <dl>
   <dt>Program:</dt>

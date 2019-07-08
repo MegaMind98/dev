@@ -15,10 +15,11 @@ camp on Arduino is going to start from Monday (July 08, 2019).
 All the interested students are requested to register their names in our Google form
 available below.
 
-[Click here](https://forms.gle/tZpao38qENdPTbzRA) or copy the link below and paste it in your browser for registration.
-
-https://forms.gle/tZpao38qENdPTbzRA
-<br /><br />
+<div class="c-ribbon">
+                      <h4 class="c-ribbon__text" ><a class="c-link c-link--anim c-link--outbound" target="_blank" rel="noreferrer noopener" href="https://forms.gle/tZpao38qENdPTbzRA">Register here</a>
+                      </h4>
+</div>
+<br />
 ## Event Information
 <dl>
   <dt>Program:</dt>

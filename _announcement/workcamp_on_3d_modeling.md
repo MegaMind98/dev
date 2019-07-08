@@ -14,11 +14,11 @@ To all the concerned students of Civil Faculty that the workcamp on 3D Modeling 
 All the interested students are requested to register their names in our Google form
 available below.
 
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdmh3LjIrX7QpA0JR23U4TXONdh8i-CFWKogUNfQ4CtObdkHA/viewform
-) or copy the link below and paste it in your browser for registration.
-
-https://docs.google.com/forms/d/e/1FAIpQLSdmh3LjIrX7QpA0JR23U4TXONdh8i-CFWKogUNfQ4CtObdkHA/viewform
-<br /><br />
+<div class="c-ribbon">
+                      <h4 class="c-ribbon__text" ><a class="c-link c-link--anim c-link--outbound" target="_blank" rel="noreferrer noopener" href="https://docs.google.com/forms/d/e/1FAIpQLSdmh3LjIrX7QpA0JR23U4TXONdh8i-CFWKogUNfQ4CtObdkHA/viewform">Register here</a>
+                      </h4>
+</div>
+<br />
 ## Event Information
 <dl>
   <dt>Program:</dt>
