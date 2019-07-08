@@ -18,11 +18,11 @@ permalink: /news-and-announcements/
   
       <div class="t-light">
         <div class="o-full">
+           <div class="o-row u-flex-wrap">
 
                 {% assign announcements = site.announcement %}{% for announcement in announcements %}
-<div class="o-columns__column u-mr2 u-mb3">
-
-      
+                <div class="u-flex-1">
+                    <div class="c-blog-card  u-m2">
                                 <img class="u-responsive" src="{{ announcement.image }}" alt="{{ announcement.alt }}">
                               
                                 <p class="u-type-h6 u-mb0">{{ announcement.date | date: "%B %-d" }}</p>
@@ -31,6 +31,7 @@ permalink: /news-and-announcements/
                                   <a href="{{ announcement.link }}" class="c-link c-link--outbound u-m0">Read now</a>
                                 </p>
                               </div>
+                            </div>
                               {% endfor %} 
 
 
@@ -39,5 +40,4 @@ permalink: /news-and-announcements/
                 </div>
       
     </div>
-  </div>
-</div>
+<br /> <br />
