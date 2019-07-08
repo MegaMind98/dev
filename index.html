@@ -70,7 +70,7 @@ layout: base
 <div class="t-light">
     <div class="o-bleed o-bg u-pt5 u-pb8">
         <div class="o-full">
-            <h2 class="u-type-h3 u-mt0 editable">
+            <h2 class="u-type-h3 u-mt0">
               NCIT<br />Balkumari, Lalitpur
             </h2>
             <div class="o-row u-flex-wrap-r@column-min-down">
@@ -104,13 +104,16 @@ layout: base
       </div>
   </div>
 </div>      
-<br /> <br />
 <div class="t-light">
+    <div class="o-bleed o-bg u-pt3 u-pb5">
     <div class="o-full">
-       <div class="o-row u-flex-wrap">
-          <p class="u-type-panel-text">
-              <a class="c-link c-link--inline u-text-no-wrap" href="{{ '/news-and-announcements/' | prepend: site.baseurl }}">News/Announcements</a>
-            </p>
+        <h2 class="u-type-h4 u-mt0">
+            News/Announcement
+          </h2>
+<p class="u-type-h5">News from college and around the world. For earlier news, <a href="{{ '/news-and-announcements/' | prepend: site.baseurl }}">click here</a>.</p>
+
+      <div class="o-row u-flex-wrap">
+
             {% assign announcements = site.announcement %}{% for announcement in announcements %}
             <div class="u-flex-1">
                 <div class="c-blog-card  u-m2">
@@ -131,7 +134,7 @@ layout: base
             </div>
   
 </div>
-<br /> <br /><br />
+</div>
 <div class="t-black">
     <div class="o-bleed o-bg c-step">
       <div class="o-full">
