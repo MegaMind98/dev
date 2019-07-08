@@ -104,19 +104,34 @@ layout: base
       </div>
   </div>
 </div>      
+<br /> <br />
 <div class="t-light">
-  <div class="o-bleed o-bg u-pb8 u-pt8">
-      <div class="o-full">
-              <p class="u-type-panel-text">
-                <a class="c-link c-link--inline u-text-no-wrap" href="{{ '/news-and-announcements/' | prepend: site.baseurl }}">News/Announcements</a>
-              </p>
-              {% assign announcements = site.announcement %}{% for announcement in announcements %}
-              <a target="_blank" rel="noreferrer noopener" class="c-link c-link--outbound u-type-h3 u-pl0" href="{{ announcement.link }}">{{ announcement.title }}</a><br /><br />
-              {% endfor %} 
+    <div class="o-full">
+       <div class="o-row u-flex-wrap">
+          <p class="u-type-panel-text">
+              <a class="c-link c-link--inline u-text-no-wrap" href="{{ '/news-and-announcements/' | prepend: site.baseurl }}">News/Announcements</a>
+            </p>
+            {% assign announcements = site.announcement %}{% for announcement in announcements %}
+            <div class="u-flex-1">
+                <div class="c-blog-card  u-m2">
+                            <img class="u-responsive" src="{{ announcement.image }}" alt="{{ announcement.alt }}">
+                          
+                            <p class="u-type-h6 u-mb0">{{ announcement.date | date: "%B %-d" }}</p>
+                            <p class="u-type-panel-text u-m0">{{ announcement.title }}</p>
+                            <p class="u-type-panel-text u-m0">
+                              <a href="{{ announcement.link }}" class="c-link c-link--outbound u-m0">Read now</a>
+                            </p>
+                          </div>
+                        </div>
+                          {% endfor %} 
+
+
+                                      </div>
+
             </div>
-    </div>
-  </div>
+  
 </div>
+<br /> <br /><br />
 <div class="t-black">
     <div class="o-bleed o-bg c-step">
       <div class="o-full">
