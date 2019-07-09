@@ -1,7 +1,7 @@
 ---
 title: Workcamp on Arduino
 date: 2019-07-04
-image: https://images.unsplash.com/photo-1553406830-ef2513450d76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1455&h=970
+image: https://images.unsplash.com/photo-1553406830-ef2513450d76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&&w=1600&h=800
 alt: Workcamp on Arduino
 author: NEXT
 readtime: 2

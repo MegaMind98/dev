@@ -1,7 +1,7 @@
 ---
 title: Workcamp on Analysis of Steel Structure
 date: 2019-07-08
-image: https://images.unsplash.com/photo-1483206492175-0b3c76984496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1455&h=970
+image: https://images.unsplash.com/photo-1483206492175-0b3c76984496?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&&w=1600&h=800
 alt: Workcamp on Analysis of Steel Structure
 author: NEXT
 readtime: 2
