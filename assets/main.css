@@ -2491,7 +2491,8 @@ th {
     .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after, [class*="t-"] .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after {
       border-bottom: solid 4px #000000; }
   .c-inner-nav__button::after {
-    top: unset; }
+    top: unset;
+    bottom: 0; }
     .t-light .c-inner-nav__button::after, [class*="t-"] .t-light .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-light .c-inner-nav__button::after {
       border-bottom: unset;
       border-top: solid 4px #FFFFFF; }
