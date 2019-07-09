@@ -9,7 +9,7 @@ link: "/announcement/call-for-volunteers/"
 layout: announcement
 ---
 
-## We Need 'YOUR' Help!
+# We Need 'YOUR' Help!
 
 Ever since we started, <strong>"NEXT 2019"</strong> has been successfull in running its activities smoothly. In order to achieve further success, we are in need of volunteers who can help us during our major competitions such as Hackathon, Logic Battle, Rapid Coding, Gaming, Seminars, Tech Talks, etc. 
 
@@ -27,6 +27,6 @@ We would like to request everyone who are interested in this volunteering opport
   <dd>July 10, 2019 by 12:00</dd>
 </dl>
 
-### Contact Point
+## Contact Point
 Pramod Lamichhane <br />
 +977 9845220947
