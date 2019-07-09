@@ -27,10 +27,6 @@ We would like to request everyone who are interested in this volunteering opport
   <dd>July 10, 2019 by 12:00</dd>
 </dl>
 
-After completion of the event the participant are required to 
-submit a project otherwise they must pay full payment for the course.
-<br />
-
 ### Contact Point
 Pramod Lamichhane <br />
 +977 9845220947
