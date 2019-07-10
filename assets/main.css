@@ -1587,7 +1587,7 @@ th {
       .t-light .o-split-bar__first--front, [class*="t-"] .t-light .o-split-bar__first--front, [class*="t-"] [class*="t-"] .t-light .o-split-bar__first--front {
         background-color: #FFFFFF; }
       .t-dark .o-split-bar__first--front, [class*="t-"] .t-dark .o-split-bar__first--front, [class*="t-"] [class*="t-"] .t-dark .o-split-bar__first--front {
-        background-color: rgb(32, 71, 107); }
+        background-color: #2756a5; }
       .t-black .o-split-bar__first--front, [class*="t-"] .t-black .o-split-bar__first--front, [class*="t-"] [class*="t-"] .t-black .o-split-bar__first--front {
         background-color: #000000; }
   .o-split-bar__second {
@@ -1606,7 +1606,7 @@ th {
       .t-light .o-split-bar__second--front, [class*="t-"] .t-light .o-split-bar__second--front, [class*="t-"] [class*="t-"] .t-light .o-split-bar__second--front {
         background-color: #FFFFFF; }
       .t-dark .o-split-bar__second--front, [class*="t-"] .t-dark .o-split-bar__second--front, [class*="t-"] [class*="t-"] .t-dark .o-split-bar__second--front {
-        background-color: rgb(32, 71, 107); }
+        background-color: #2756a5; }
       .t-black .o-split-bar__second--front, [class*="t-"] .t-black .o-split-bar__second--front, [class*="t-"] [class*="t-"] .t-black .o-split-bar__second--front {
         background-color: #000000; }
 .o-columns {
@@ -1650,9 +1650,9 @@ th {
 .t-light .o-bg, [class*="t-"] .t-light .o-bg, [class*="t-"] [class*="t-"] .t-light .o-bg {
   background-color: #FFFFFF; }
   .t-theme .o-bg, [class*="t-"] .t-dark .o-bg, [class*="t-"] [class*="t-"] .t-dark .o-bg {
-    background-color: rgb(32, 71, 107); }  
+    background-color: #2756a5; }  
 .t-dark .o-bg, [class*="t-"] .t-dark .o-bg, [class*="t-"] [class*="t-"] .t-dark .o-bg {
-  background-color: rgb(32, 71, 107); }
+  background-color: #2756a5; }
 .t-black .o-bg, [class*="t-"] .t-black .o-bg, [class*="t-"] [class*="t-"] .t-black .o-bg {
   background-color: #000000; }
 @media (max-width: 940px) {
@@ -2445,7 +2445,7 @@ th {
   .t-light .c-inner-nav__mobile, [class*="t-"] .t-light .c-inner-nav__mobile, [class*="t-"] [class*="t-"] .t-light .c-inner-nav__mobile {
     background-color: #FFFFFF; }
   .t-dark .c-inner-nav__mobile, [class*="t-"] .t-dark .c-inner-nav__mobile, [class*="t-"] [class*="t-"] .t-dark .c-inner-nav__mobile {
-    background-color: rgb(32, 71, 107); }
+    background-color: #2756a5; }
   .t-black .c-inner-nav__mobile, [class*="t-"] .t-black .c-inner-nav__mobile, [class*="t-"] [class*="t-"] .t-black .c-inner-nav__mobile {
     background-color: #000000; }
   .c-inner-nav__mobile.is-open {
@@ -2487,7 +2487,7 @@ th {
     .t-light .c-inner-nav__button::before, .t-light .c-inner-nav__button::after, [class*="t-"] .t-light .c-inner-nav__button::before, .t-light .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-light .c-inner-nav__button::before, .t-light .c-inner-nav__button::after {
       border-bottom: solid 4px #FFFFFF; }
     .t-dark .c-inner-nav__button::before, .t-dark .c-inner-nav__button::after, [class*="t-"] .t-dark .c-inner-nav__button::before, .t-dark .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-dark .c-inner-nav__button::before, .t-dark .c-inner-nav__button::after {
-      border-bottom: solid 4px rgb(32, 71, 107); }
+      border-bottom: solid 4px #2756a5; }
     .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after, [class*="t-"] .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-black .c-inner-nav__button::before, .t-black .c-inner-nav__button::after {
       border-bottom: solid 4px #000000; }
   .c-inner-nav__button::after {
@@ -2498,7 +2498,7 @@ th {
       border-top: solid 4px #FFFFFF; }
     .t-dark .c-inner-nav__button::after, [class*="t-"] .t-dark .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-dark .c-inner-nav__button::after {
       border-bottom: unset;
-      border-top: solid 4px rgb(32, 71, 107); }
+      border-top: solid 4px #2756a5; }
     .t-black .c-inner-nav__button::after, [class*="t-"] .t-black .c-inner-nav__button::after, [class*="t-"] [class*="t-"] .t-black .c-inner-nav__button::after {
       border-bottom: unset;
       border-top: solid 4px #000000; }
