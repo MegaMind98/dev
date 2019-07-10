@@ -7,7 +7,7 @@ data-panel: "seminar"
 image: https://images.unsplash.com/photo-1544531585-9847b68c8c86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60
 body: "Seminars are prestigious part of NEXT event, so they are the place where you most want the opportunity to discuss and chime in with your thoughts on the topics at hand.  "
 alt: "Seminar"
-readmore: /session/
+readmore: "/session/#next-seminars"
 register:
 layout: event
 ---

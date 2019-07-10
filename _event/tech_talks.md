@@ -7,7 +7,7 @@ data-panel: "tech-talks"
 image: https://images.unsplash.com/photo-1554748890-d3182060db09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&h=462
 body: "Tech talks are important part of the event that host platform for technology based topics. We welcomes all distinguished academics and professionals from IT industry to share their creative and innovative technologies."
 alt: "Tech Talks"
-readmore: /session/
+readmore: "/session/#next-techtalks"
 register:
 layout: event
 ---

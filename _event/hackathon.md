@@ -7,7 +7,7 @@ data-panel: "hackathon"
 image: /assets/images/events/hackathon.png
 body: "NEXT Hackathon is a competitive platform aiming to generate innovative solutions to real-world problems in a risk-taking environment. "
 alt: "Hackathon"
-readmore: /hackathon-at-next/
+readmore: "/hackathon-at-next/"
 register: 
 layout: event
 ---

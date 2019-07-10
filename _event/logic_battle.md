@@ -7,7 +7,7 @@ data-panel: "logic-battle"
 image: https://images.unsplash.com/photo-1556075798-4825dfaaf498?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&h=600
 body: "Logic Battle is targeted but not limited to participants having a good knowledge of Data Structures and Algorithm. The main aim of Logic Battle is to provide platform for students to show their logical and programming command. "
 alt: "Logic Battle"
-readmore: /logic-battle-at-next/
+readmore: "/logic-battle-at-next/"
 register:
 layout: event
 ---

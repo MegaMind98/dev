@@ -8,7 +8,7 @@ image: https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2
 body: "
 Rapid Coding Tournament in NEXT is targeted towards students and code enthusiasts with an elementary understanding of programming. "
 alt: "Rapid Coding Tournament"
-readmore: /rapid-coding-at-next/
+readmore: "/rapid-coding-at-next/"
 register:
 layout: event
 ---

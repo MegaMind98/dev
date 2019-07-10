@@ -3,11 +3,11 @@ title: "Games"
 data-ribbon-left: ""
 data-ribbon-right: ""
 link: 
-data-panel: "hackathon"
+data-panel: "games"
 image: https://images.unsplash.com/photo-1529154691717-3306083d869e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&h=600
-body: "Gaming the heart of attraction in every technical event and there is no doubt that NEXT will not live up to its expectation."
-alt: "PUBG Mobile"
-readmore: /games/
+body: "Gaming is the heart of attraction in every technical event and there is no doubt that NEXT will not live up to its expectation."
+alt: "Games at NEXT"
+readmore: "/games/"
 register:
 layout: event
 ---

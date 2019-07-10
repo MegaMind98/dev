@@ -7,7 +7,7 @@ data-panel: "open-source-promotion"
 image: https://images.unsplash.com/photo-1453814279372-783dc5b638ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=705&h=462
 body: "NEXT 2019 will live up to the dreams of all Open Source Enthusiasts in raising awareness and adoption of open source products. NEXT believes open source is best when everyone encourages, adapts and promotes Open Source Products."
 alt: "Open Source Promotion"
-readmore: 
+readmore: "#"
 register:
 layout: event
 ---

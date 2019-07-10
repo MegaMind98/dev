@@ -7,7 +7,7 @@ data-panel: "robo-football"
 image: '/assets/images/events/robo_football.jpg'
 body: "It is a league game competition, where two teams with 3 manually controlled Robots of each team will be competing against each other to score the highest score."
 alt: "Robo Football"
-readmore: /robo-football-at-next/
+readmore: "/robo-football-at-next/"
 register:
 layout: event
 ---

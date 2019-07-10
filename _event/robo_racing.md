@@ -7,7 +7,7 @@ data-panel: "robo-racing"
 image: '/assets/images/events/robo_racing.jpg'
 body: "It encourages the creativity of student and supports collaboration among them to come up with a product in a short period of time frame using tools and techniques they are familiar with."
 alt: "Robo Racing"
-readmore: /robo-racing-at-next/
+readmore: "/robo-racing-at-next/"
 register:
 layout: event
 ---
