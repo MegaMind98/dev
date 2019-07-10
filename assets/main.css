@@ -1731,7 +1731,7 @@ th {
     .t-light .c-activity-panel, [class*="t-"] .t-light .c-activity-panel, [class*="t-"] [class*="t-"] .t-light .c-activity-panel {
       background-color: #FFFFFF; }
     .t-dark .c-activity-panel, [class*="t-"] .t-dark .c-activity-panel, [class*="t-"] [class*="t-"] .t-dark .c-activity-panel {
-      background-color: rgb(32, 71, 107); }
+      background-color: #2756a5; }
     .t-black .c-activity-panel, [class*="t-"] .t-black .c-activity-panel, [class*="t-"] [class*="t-"] .t-black .c-activity-panel {
       background-color: #000000; } }
 .c-panel-image {
