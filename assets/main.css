@@ -3685,5 +3685,83 @@ th {
     background-color: currentColor;
     transition: all .2s ease;
     clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%); }
-
+    .sponsor-type {
+      font-size: 18px;
+      font-size: 1.8rem;
+      margin-top: 5rem;
+      text-align: center
+    }
+    
+    .sponsor-list {
+      -ms-flex-align: center;
+      align-items: center;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: row;
+      flex-direction: row;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -ms-flex-pack: center;
+      justify-content: center;
+      list-style-type: none;
+      margin: 3rem auto 0;
+      padding: 0
+    }
+    
+    .sponsor-list li {
+      -ms-flex: 0 0 50%;
+      flex: 0 0 50%;
+      margin-bottom: 2rem;
+      padding: 0;
+      text-align: center
+    }
+    
+    @media (min-width: 580px) {
+      .sponsor-list li {
+        -ms-flex: 0 0 33%;
+        flex: 0 0 33%
+      }
+    }
+    
+    @media (min-width: 1024px) {
+      .sponsor-list li {
+        -ms-flex: 0 0 33%;
+        flex: 0 0 33%
+      }
+    }
+    
+    .sponsor-list a {
+      -ms-flex-align: center;
+      align-items: center;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      padding: 1rem 2rem;
+      position: relative
+    }
+    
+    .sponsor-list a img {
+      filter: brightness(0.5);
+      height: auto;
+      opacity: .75;
+      position: relative;
+      transition: all .2s;
+      width: 100%
+    }
+    
+    .sponsor-list a .transition-transparent-to-fill {
+      opacity: 0;
+      transition: all .2s
+    }
+    
+    .sponsor-list a:hover img {
+      opacity: 1;
+      filter: brightness(1)
+    }
+    
+    .sponsor-list a:hover .transition-transparent-to-fill {
+      opacity: 1
+    }
+    
 
