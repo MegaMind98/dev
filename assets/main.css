@@ -3742,7 +3742,7 @@ th {
     }
     
     .sponsor-list a img {
-      filter: brightness(0.5);
+      filter: brightness(0.8);
       height: auto;
       opacity: .75;
       position: relative;
@@ -3763,5 +3763,3 @@ th {
     .sponsor-list a:hover .transition-transparent-to-fill {
       opacity: 1
     }
-    
-
